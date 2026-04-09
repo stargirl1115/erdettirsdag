@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(93, 163, 196);
+}
+
+h1 {
+    position: relative;
+    text-align: center;
+    margin-top: 70px;
+}
